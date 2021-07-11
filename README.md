@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mmorth
+- 👀 I’m interested in Embedded Systems and Computer Vision Machine Learning
+- 🌱 I’m currently learning Computer Vision Machine Learning
+- 💞️ I'm currently working at John Deere with a Masters of Engineering from Iowa State University
+- 📫 You can reach out to me on Linkedin: https://www.linkedin.com/in/matthewmorth/
